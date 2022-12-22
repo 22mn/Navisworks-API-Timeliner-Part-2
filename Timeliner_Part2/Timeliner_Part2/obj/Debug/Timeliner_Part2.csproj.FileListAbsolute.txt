@@ -1,0 +1,6 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Timeliner_Part2\Timeliner_Part2\bin\Debug\Timeliner_Part2.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Timeliner_Part2\Timeliner_Part2\bin\Debug\Timeliner_Part2.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Timeliner_Part2\Timeliner_Part2\obj\Debug\Timeliner_Part2.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Timeliner_Part2\Timeliner_Part2\obj\Debug\Timeliner_Part2.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Timeliner_Part2\Timeliner_Part2\obj\Debug\Timeliner_Part2.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Timeliner_Part2\Timeliner_Part2\obj\Debug\Timeliner_Part2.pdb
