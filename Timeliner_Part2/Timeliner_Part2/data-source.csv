@@ -1,0 +1,9 @@
+UniqueId,Name,ActualEnabled,Actual Start,Actual End,PlannedEnabled,Planned Start,Planned End,Task Type,MaterialCost,LaborCost,EquipmentCost,Display ID,Animation,Animation Behavior,Provided Progress %,User 1,User 2,User 3,User 4,User 5
+1,Foundations,1,,,1,7/1/2022,7/2/2022,Construct,1,10,315,1,,Scale,0.00%,,,,,
+2,WallStamp,1,,,1,7/2/2022,7/3/2022,Construct,1,20,5,2,,Scale,0.00%,,,,,
+3,SteelColumns,1,,,1,7/3/2022,7/4/2022,Construct,1,10,46,3,,Scale,0.00%,,,,,
+4,Floor,1,,,1,7/4/2022,7/5/2022,Construct,1,20,5,4,,Scale,0.00%,,,,,
+5,BrickWalls,1,,,1,7/5/2022,7/6/2022,Construct,1,10,45,5,,Scale,0.00%,,,,,
+6,Doors&Windows,1,,,1,7/6/2022,7/7/2022,Construct,1,20,7,6,,Scale,0.00%,,,,,
+7,Interior,1,,,1,7/7/2022,7/8/2022,Construct,1,10,0,7,,Scale,0.00%,,,,,
+8,Roof,1,,,1,7/8/2022,7/9/2022,Construct,1,20,634,8,,Scale,0.00%,,,,,
